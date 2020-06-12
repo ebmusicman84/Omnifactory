@@ -384,6 +384,7 @@ for oreDictEntry, items in dustsDisabled {
 }
 
 <ore:dustArdite>.add(<enderio:item_material:30>);
+<ore:dustMoon>.add(<contenttweaker:moondust>);
 
 //////////////////////////////
 //			Gems            //
